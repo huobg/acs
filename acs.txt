@@ -1,0 +1,886 @@
+ ExplicitAutoJoints trueSSTRo
+ CSGPHS BLOCK#
+ q5L2?rZ D5L2?0
+ Nx?x02A7@2
+ë m6@HbUM>tX
+ì  u,sA,E3>`
+ uSdL rqdL
+ Attachment
+ BillboardGui
+ BindableEvent
+ BlurEffect
+ Color3Value ColorCorrectionEffect CompressorSoundEffect
+ Configuration
+ DistortionSoundEffect DoubleConstrainedValue
+ HingeConstraint
+ ImageButton
+ ImageLabel
+ LocalScript
+ ModuleScript NumberValue
+ ObjectValue
+ ParticleEmitter RemoteEvent
+ RemoteFunction
+ ScrollingFrame
+ SpecialMesh StringValue
+ SurfaceGui
+ TextButton
+ UIAspectRatioConstraint
+ UIGradient UIGridLayout UIListLayout UIPageLayout
+ UnionOperation
+ WeldConstraint
+ AttributesSerialize
+ Capabilities!
+ DefinesCapabilities
+ Attachment1
+ VAim Muzzle Chamber
+ .PhmentPROP)
+ SourceAssetId
+ AlwaysOnTop AttributesSerialize
+ AutoLocalize
+ Brightness Capabilities! ClipsDescendants DefinesCapabilities
+ DistanceLowerLimit DistanceStep DistanceUpperLimit
+ ExtentsOffset ExtentsOffsetWorldSpace LightInfluence MaxDistance DoorTag Breach
+  CrossHair TeamTagUIPROP$ PlayerToHideFrom
+ ResetOnSpawn RootLocalizationTable SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup
+ SizeOffset
+ SourceAssetId StudsOffset StudsOffsetWorldSpace ZIndexBehavior AttributesSerialize Capabilities! DefinesCapabilities PROP RefreshPROP!
+ SourceAssetId AttributesSerialize
+ Bevel Roundness Capabilities! DefinesCapabilities Name OMesh Scale ~xxxxUGGGGU
+ SourceAssetId VertexColor AttributesSerialize Capabilities! DefinesCapabilities PROP Enabled PROP
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities Destroyed
+ rFortifi
+ MedKit AlgemadoZ Rappeling
+ Can_RappelPROP(
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities PROP
+ SquadColorPROP 
+ SourceAssetId AttributesSerialize
+ Brightness Capabilities! DefinesCapabilities PROP ColorCorrectionPROP
+ Saturation
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities PROP Enabled PROP
+ GainMakeup CompressorSoundEffect PffectPROP
+ SourceAssetId AttributesSerialize
+ DragPlayer Surrender= Tourniquet Capabilities! DefinesCapabilities ACS 2.0.1 - Official Release
+ p_Engine; GameRules `ClientPROP,
+ SourceAssetId
+ AttributesSerialize
+ Capabilities!
+ DefinesCapabilities PROP
+ Enabled PROP
+ DistortionSoundEffect PffectPROP
+ SourceAssetId
+ AttributesSerialize Capabilities! DefinesCapabilities Sangue StaminaPROP!
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities http://www.roblox.com/asset/?id=121944778PROP
+ SourceAssetId http://www.roblox.com/asset/?id=121944805     PROP" VertexColor
+ AttributesSerialize
+ Capabilities!
+ DefinesCapabilities
+ Name
+ ACS_WorkSpace Server
+ `Client
+ Breach Doors Essential& `Events
+ QMedSy' GunModelsC ONode
+ FireTeamw 0Kit ProtecaoA pStancesg VariaveisPROP&
+ SourceAssetId
+ AnchorPoint
+ AttributesSerialize AutoLocalize
+ AutomaticSize BackgroundColor3
+ BackgroundTransparency
+ BorderColor3
+ BorderMode
+ BorderSizePixel
+ Capabilities! ClipsDescendants DefinesCapabilities Interactable LayoutOrder
+ RosaDosVentos Squad Membros@ Center Supressao
+ AMainq QStatua PBarraa pStaminaQ Poses Medkit
+ Painkiller3 pBandage# EpinefrinV Morfina BloodBag/ QSplinR Tournique PTimer @Baset qVidaBarE Pangue
+ sAberto TratarFerida
+ pEfeitos `GunHUD Deletable PAmmo
+ bArrast aBreach_ `quipes pFortify` PPorta `Rappel
+ 2ous 1undE Crosshairo FramePROP+ NextSelectionDown NextSelectionLeft
+ NextSelectionRight
+ NextSelectionUp
+ RootLocalizationTable
+ Selectable SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup SelectionImageObject SelectionOrder
+ SizeConstraint
+ SourceAssetId
+ ActuatorType AngularResponsiveness
+ AngularSpeed AngularVelocity Attachment0 jPROP Attachment1 dPROP" AttributesSerialize Capabilities! DefinesCapabilities PROP Enabled PROP
+ LimitsEnabled PROP
+ LowerAngle MotorMaxAcceleration MotorMaxTorque Name
+ HingeConstraintPROP Radius |334PROP Restitution ServoMaxTorque SoftlockServoUponReachingTarget
+ SourceAssetId TargetAngle
+ UpperAngle AttributesSerialize
+ AutoJumpEnabled PROP
+ AutoRotate AutomaticScalingEnabled PROP
+ BreakJointsOnDeath PROP Capabilities!
+ CollisionType DefinesCapabilities DisplayDistanceType DisplayName EvaluateStateMachine HealthDisplayDistance HealthDisplayType
+ Health_XML InternalBodyScale InternalHeadScale
+ JumpHeight
+ MaxSlopeAngle
+ HumanoidPROP" NameDisplayDistance
+ NameOcclusion RequiresNeck PROP
+ SourceAssetId UseJumpPower PROP AnchorPoint
+ AttributesSerialize AutoButtonColor AutoLocalize
+ AutomaticSize BackgroundColor3 BackgroundTransparency
+ BorderColor3
+ BorderMode
+ BorderSizePixel
+ Capabilities! ClipsDescendants DefinesCapabilities HoverHapticEffect
+ HoverImage http://www.roblox.com/asset/?id=398488500PROP http://www.roblox.com/asset/?id=5735904224. 6066176. 4245800353 rbxw id://23151450 988112250PROP@ ImageColor3
+ ImageRectOffset
+ ImageRectSize ImageTransparency Interactable LayoutOrder
+ andage Medicine PlaceHolder0 `NeedleU Other ClosePROP+ NextSelectionDown
+ NextSelectionLeft
+ NextSelectionRight
+ NextSelectionUp
+ PressHapticEffect
+ PressedImage ResampleMode RootLocalizationTable
+ Selectable
+ SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup SelectionImageObject
+ SelectionOrder
+ SizeConstraint SliceCenter
+ SliceScale
+ SourceAssetId
+ AnchorPoint
+ AttributesSerialize AutoLocalize
+ AutomaticSize BackgroundColor3
+ BackgroundTransparency
+ BorderColor3
+ BorderMode
+ BorderSizePixel Capabilities! ClipsDescendants DefinesCapabilities http://www.roblox.com/asset/?id=4245800353. 53841626 rbxI id://2319391988 3513778112 481839700 ]40141k 147441244 340808991 575766791R 5368853166. o922885. 83172143. M4023 5359493; m6188436 3486729016 ^69454l 3554606974Q 552746365 190596490- 76533208\ 64349586 27979708
+ 4388487 41637550J O8688 4697506460\ 5736216477. 41578822.
+ 654091725%
+ 655049369T 1805072489 126126922H
+ 1707230763
+ 263170808PROP ImageColor3
+ ImageRectOffset
+ ImageRectSize ImageTransparency Interactable LayoutOrder
+ MinhaVisaoK Helm Levantado6 0Dei Agaix Bleeding Steady" Esg_Left `Energy
+ `CircleZ PRight ImageLabel bOxygen
+ Pigen `Health Suppress 2Low Magazines; pilencer 2Las PFlash PBipodl
+ uloSelecao0
+ rDeletab 1IcoP oCenter BBord AScopJ Vinheta DirtyPROP, NextSelectionDown NextSelectionLeft NextSelectionRight
+ NextSelectionUp
+ ResampleMode RootLocalizationTable
+ Selectable SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup SelectionImageObject SelectionOrder
+ SizeConstraint SliceCenter
+ SliceScale
+ SourceAssetId
+ AttributesSerialize Capabilities! DefinesCapabilities
+ EnergyShot PainKiller Bandage loodBag
+ reachCharges
+ pinephrine Fortifications> Morphine Aplinm Tourniquet$ HitCountPROP&
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities LinkedSource FomeSede9 Main LocalScript MedicateHandler= 0CLS1 Sys_FX
+ ACS_Framework EventHandlerPROP
+ RunContext
+ ScriptGuid {12AF4819-4A02-41AD-8FFF-25387AEC8CEE}* 469280DB-0188-4F9E-B411-0A1846B00826* BCD22DC-DE72-4D93-AA0C-3056B7B6645C* 335276BD-B9B8-4B5C-9FBA-EC1BB301C8DA* 617D3854-C5C1-4B6F-9DFD-02E6323AEBD E8574F2C-EA7E-4726-B792-539B348AD071T 47582F0E B-4068-8595 73A3F4DB4* 2BFF93E8-BB4A-4DD8-BCF9-DA0F08404B7D* D0678E26-9970-454F-8755-AECD5C4A5D8T E64396ED-B3FB-4929-8C22-EF97DA7799F3T 0F004CA9-CBCF-4 BCF8-839F0C6788BF* 2A8700CE-74 1C2-9920-18F76DA76D9B* BE7F1971-3EA7-48AE-8DE6-F1B7CEC67C2* 25407D6-F3A8-4689-99F7-DEC8D355D5FF}PROP~ local RS  = game:GetService("ReplicatedStorage")
+ --// VariablesA
+  UpdateTag(plr)
+ if plr ==U or not plr.Character !:FindFirstChild("TeamTagUI") then return; end;
+ then
+ Tag.Enabled = true;
+ ACS_Client") and
+ Frame.Icon.ImageColor3)
+ 3.fromRGB(255,
+ ").Heartbeat:connect(
+ for _,v in pairs(game.a Ss:Get
+ repeat wait() until
+  WaitFor parent, chil , maxWait) startTime = tick()
+ adar_Gui = script.P
+ ServerConfig = require(& xANGE = 5 .GPSdistance( MinhasVisao RosaDosVentos< UIAspectRatioConstraint~
+ A Any names (keys) not in this list will be deleted (values must evaluate to trueU This is to store other things that may  our radar attention Camera = workspace.Current SaveList = {
+ Save = {UIGridLayout%
+ .Humanoid.Died:C
+ RenderStepped$
+ Direction = (Vector2.new(N .Focus.x, Coordinate\ theta = (math.atan2(
+ Esquadrao.Text
+ Health > 0
+ Exemplo:Clonez
+ RootPart'%  relative posiy dof the
+ :inverse() * p
+ .p.Magnitude/RANGE ROrien ¡ .Y + theta
+ :IsDescendantOf
+ PastaFX =K fModule+ QUltil Utilities") bSpringf
+ saude = char GetAttribute("S 5derb Algemado = } Rappeling(
+ maxAir = 100
+ tweenJoint F Parameters:
+ be a weld with a C0 and C1 property
+ d newC0B bis whaQ dnew C0F #ll be. You can put nil if you don't want to effect
+ 1ake tinput pt  of a number be
+ For example,y
+ float DurW how longj 3ing to complete
+ TS:Create(char.1 Info.new(1), {U kOffset
+ ,Enum.EasingStyle.Linear InOut,-1,true), {
+ _Agaix gODeit~
+ QTrans~$!cy
+ maxWidth = 0.96
+ QNadan
+ Type.Swimmi
+ region = R
+ min,max):ExpandToGrid(4)
+ materialY) Terrain:ReadVoxels(_
+ oOxygen air/50,air/102
+ Efeitos.OxiS BackgroundU
+ MedicSystem Selecion ]Texto
+ SacoDeSang\
+ Medkit.Painkiller.-
+ icineAberto.TratarFeridas RPainK aButton r.Roblox¯ pinephrineg Defaultl
+ Comprimir./, U1Down&
+ .Barra.Size
+Ó Overhaul.Vida[%¯ Consciente/ DZ;Dcrip]L $Do8)^Ferid
+ 5oidg BvSan gpie, 0!0APizz
+ Vida)'a"Dead",1  = "High Risk 1Unc 1ous
+  35Dory qNo painu
+ -- placecj  into you*jÓ rst ScreenGui
+ sing forè„  to load` 3UISg
+ ", plr).Name
+´ interactionTg
+ TextoOmbrr! Ambro 
+ _Porta cArrast
+ Sis = GUI.C
+ DoorsFol(L
+ƒ  getNear7[
+ Torso")and Door.Doo
+ 1sla=F  gine.HUD 5Tag
+ 4For (L_225_arg1
+ gir.Liberr OAzul4 _marel
+ T.TreaÏ  BBand
+ input, gameProcessed| .KeyCode == not Yeet\Z¼ IconEnabled FLM.Modal/
+ 45, 205, 48€ oIquad Charlie 0, 143, 156 K_Verde 75, 151, 75
+ :UnequipTools()b
+  qDoor,2,9
+ Raio2 = Ray.new(4$".C Hit, Pos, Norm`$ FindPartOnRayWith
+ ,Pos,Norm,HitD {Fortify sStances 4ing
+ 3KitŸƒ ications\
+Á "Unlock doorV DoorHingeV7 27sla!
+ QFound q,Vitima 2Get EFrom
+ Collapse{>
+ Nome .." tapped­ shoulder!"3 for i, Guis in ipairs(sm\
+ Guis.class
+ 3oid ASaud MedicSystem
+ .Stats.Patient
+µ Progress.Ba#T bScroll4 5CouI
+ EFeri— ,SSangr
+ƒ Overview1% pie, 0, 1K
+ (CombatLog)
+ = Fx.LogText:clonYG
+² 8AHUD.S UClick;
+ .CurrentEn
+ CorrectionEffect") 
+ BrightnessC
+ BTimeV , -- Time
+  (when less than zer8}  will loop indefinitely)
+  once reaching it's goal)
+ 0 -- Delay
+ SKP_4 = MD SKP_5 = {"342190005"; 
+ 24";} -- Bullet Whizz StarterGui")
+ :SetCoreGui- RType. SList, Gui:SetTopbar
+ 12.Saturation
+ oSKP_12 =aContra{
+ --SKP_7:SetState Type.DeadE~2)
+ 1:AddItemS
+ 7.AutoRotat
+ 2ild MeshPart˜ ild.Localq aModifi
+ s.RespawnTime/1.2
+  -- YAY A MEDIC ARRIVED! =D
+ .ScriptableG
+ ContextActiokd
+ eEvents- OMods. WModul 5HUDZ Essential  SpringMod 9 Hitmarker9 _Threa9 Utilities")w
+ CAmmo aStored WeaponInHand, DTool Data, AnimDataH AView~ Part, LArm, R LArmWeld
+ eGunWelÜ iBight] bBarrel XUnder WOther{ generate, dBSprea_ RecoilPow& BLast#ÅºŠ .AcessId8”¥ plr.UserId CHup, CHdown, CHleft, CHright =  runKeyDowUk Oaimm2 _shoot areload
+ JumpDelay1 2NVG Suppressor FlashHide _Bipod5 1Can CCook`
+ ATool 5150 aipodCF
+ ModTable = {
+ InaccuracyP
+ ,WalkMul7 uadsTime~ MuzzleVelocity4
+  offset of c  oguncf 8 Olarmp left armr
+­Ô  = {cam,char,
+ RAND(Min, Max, AZ
+ Inverse = 1 / (  /Gtm(Min *9
+—• tatusUI")J
+ QLowHP#o 2Low Crosshair = J
+ TWAY, XSWY, YSWY = 0,0, qoldtickg
+ WVirar }CameraX
+ Ofall
+ OcansH cCrouch lProned_ RStead
+ ENeck, sRight_S
+Ã³ = Neck.C0.Y _Waist CFNew, CFAg
+ TAnglev 5Asin#Casine Mode.Classic
+ gCustom( Subject M .TeamTags thenP Bchar Disabled E%1funx r handleñÍ¢ Name, inpu
+•— Fire" and7 aingMag[ 7notc
+ ShellInsertp
+ sZeroing2- CurrentZero < 1Max‚ .Click:pCT
+ ZeroIncrementY
+  return; end; 1Ahelm
+  resetModsc
+ loadAttachment(w
+ --load sight AttY
+ Data =  require(y7
+ sAtt:Setz5BPart
+£ Att.AimPos
+ Mark.SurfaceGui.Border.Scope
+ for index, key if key.Nam, key.Transparency
+ not key:IsA('BasePart't Ultil.Weld9
+ key.AnchorB key.CanCollide
+ :GetDescendants()) dolÈ Snot K
+ .Shape = 'Ball'
+ Material =
+ NumberSequence.new(0. LightEmiss
+ Sensitivity = (Sens/100@Á AimDown:Playa
+ì ), {Background
+ SORighm VoCentern _Image
+ --print("Set to & SafetyClick
+ not char DTool
+ 1war ol Or Gun .K Doesn't Exist")
+ LockFirstPersh
+  = "Viewmodel"K
+ LeftArm" ZPart0dÔ setup arms to
+ LeftBracket
+ EgGunHUDvE
+ L_213_forvar1, L_214
+ data moduleW 7Unbh2
+ cam,AimTween,{FieldOfView = 7'
+ HalfStep 'qHeadMov
+ K0BACS_In? or
+ New(0, -.5, 0_ Ang(0, Asin( J180)(0ONeck
+» spring.p.x,
+ rad(vr * RAND( 1b
+ grr, glr)/10)
+ ForHumanoid(L_225_arg1%
+ lrecast TotalDistTravel raycastResult\ Params = R& w.FilterÈ H5Insœ Blacklist= Run.Heartbeat:WaitCc .Magnitude\/
+ P v_, plyr/!Cgame s:GetPlayersß plyr.Characte QVAEvt. 9eAplyr ,1,nil,nil. -- Set an oÑ directional v
+ $rfor _,pA
+ OLeg1< OLeg2
+ o'Armor sEShield
+ QFound6 q,Vitima
+ Evt.Damage:Invok
+¯ 1, 100) <=A ZChanc} EveryXShots
+ pQTable'}&Mu6$aBColor:
+ 3.fromRGB(255, balaspread
+ 2AimÐ >ARedup
+ qRainbowH1
+ WidthScale aTextur rbxassetid://23291862
+ Mode.Stretch BillboardGui", bg.Adorneez 275, 375)/15
+ ImageLabel", bgI
+ /?id=1047066405
+ :ApplyImpulse(
+ .Debris:AddItem
+ BladeRange+  if it's a hat or a
+ .GunHUD
+ HUD.NText.Text rgunName% Att.Silenced
+ math.ceil( Magazinesd
+ zCMText,= 0KText 0,TextStroke
+ math.floorb+
+ Almost half delay(.25,
+ MagCheck'd
+ QReady 1qrepeat Í #r) until
+ FHighQ
+ 2Jama4
+ IncludeChamberedl
+¥ .Supressor
+Ñ .InOut,0,true
+ not shooting[
+  Evt.AtirEm D1h_ =  1j#
+ .cornerPeek = $ peekFactqA xNewLeanpvÊ fromAxisAngl game:GetService("Ru˜ó² :BindToRendz
+Â Vector3.new(
+Í  LevantadoH#
+ InjuredWalksSpee Y1oid Type.Jumping
+ //Animation Loader\\
+ž½ LeftShift)
+ Gun System
+ ChildAdded:connect FindFirsts "VehicleSeat
+ :UnequipTools()m,8Lea
+ .StarterPlayer
+ not  gameRules.AntiBunnyHop
+ JumpCoolDown bOld,st}'1if 
+ Freefallo not fall6 local curV
+ hurtSound = PastaFx.e
+ .TimeLength)
+ß .WheelBackwar ) -- fires when the wheel goes forwards
+” 'UserInpup'
+ BloodScreenA TLowHP 'sEfeitos.
+°‚ ViewMode ALArm
+ arms are loade& Delta = User:GetM swayVec = [
+ 3Pos
+ Norm = workspace:FindPartOnRayWithUkaeList(<‚ CF:Lerp(Mq
+ CF * maincf * gunbob 1aim KA.Gunr FFixe
+ if CurAimpart
+ Sway:inverse
+ for index,  dist_scale
+¡ .CrossHair CHup = CHup
+ Aleftd Oleft3 Brigh4
+ Normalized = (
+ JLeftF JleftH KRigh%
+ currTime = timex
+ Evt.Refil.On Tool, Infinite, 
+ Storage")pO#pl\
+ 7Spa REngin OMods. fModule/
+ Hitmarker9 QUltil Utilities")p
+÷ {"4872110675"; "530377349 7296 257"; "34219000)
+ ,Settings)
+ AnimBase")V
+ AAtt0  = "Att0t˜ 4Dot
+ LightEmiss
+ Width0 = 0.0 A.Shape = 'Ball' LA.CanCollide(sLA.Anch
+ PlayOnRemove 7SomD MedSys.Med
+ Mode == 47
+ Linear),{Contrast = -.2
+ :AddItem(FX,1.5%
+ Mode,Intensity,Tempo)
+ lSE_GUI
+ .Humanoid.Health
+ Exponential
+Ø staFx.EarRing
+ --// Some Yanderedev work over here, huh?
+ ,)!UData,EG
+ if Door.DooØ 2FKnob!7
+‡á Interact(actio¼ f4tat 2Obj
+’ tate.Begid.
+ RequiresKey?
+ parts, max U,Part acloses
+ _, partToFace in i
+ KeyCode.G)
+ /:SetCore("ChatMakeSystemMessage", {
+ Text = "Advanced Combat ,
+ Font.Roboto; g
+ string.lower
+ CondensedY
+ Made By: 00Scorpion00|
+ CL.Refresh CLS.Disabl9;
+ SourceAssetId AeroMeshData AttributesSerialize AudioCanCollide
+ BackParamA
+ BackParamB BackSurface BackSurfaceInput BottomParamA BottomParamB
+ BottomSurface BottomSurfaceInput
+ CanCollide Capabilities!
+ CastShadow CollisionGroup Default KPfaultPROP% CollisionGroupId Color3uint8 5555555555PROP- CustomPhysicalProperties DefinesCapabilities DoubleSided EnableFluidForces FluidFidelityInternal FrontParamA FrontParamB FrontSurface FrontSurfaceInput HasJointOffset HasSkinnedMesh InitialSize JointOffset
+ LeftParamA
+ LeftParamB LeftSurface LeftSurfaceInput
+ MaterialVariantS
+ oized rbxassetid://1899855665 2635698453 35490046 7645776316 366621842 260244348 5531138085 648852385k 59466991 49003932PROPf Bolt MeshPart Union lanterna AN PEQ PBipod Pexps3( aimpointPROP,
+ PhysicalConfigData
+ PhysicsData PivotOffset Reflectance
+ RenderFidelity
+ RightParamA RightParamB RightSurface RightSurfaceInput RootPriority RotVelocity
+ SourceAssetId
+ TopSurface
+ TopSurfaceInput Transparency UnscaledCofm UnscaledVolInertiaDiags UnscaledVolInertiaOffDiags UnscaledVolume VertexCountü XhP2Ì rPROP( AttributesSerialize Capabilities! DefinesCapabilities
+ LevelOfDetail
+ ModelMeshCFrame
+ ModelMeshData
+ ModelMeshSize ModelStreaming Ungroup in Workspace
+ SemiBreach Destroyable porta_fechadura ReplicatedStorage QCharg `HK416 R700 Flashbang 1M67 Compensator Muzzle Brake6 Reflex TA33 Acog> Angled Grip
+ Vertical QLasers uppresso PBipod PPM II EOTech Aimpoint ServerScript `tarter 4act5 PlayerScriptsPROP( NeedsPivotMigration PrimaryPart
+ ScaleFactor
+ SourceAssetId WorldPivotData
+ AttributesSerialize Capabilities! DefinesCapabilities LinkedSource Config
+ pmbatLog `EOTech
+ `Reflex4 Acog
+ Suppressor Flash Hide Compensator Muzzle Brake
+ Vertical Grip? aAngled Base Laser TTA33 z AimpointC Utilities5 Spring Ragdoll" Hitmarker" `Thread ACS_Settings CS_Animations" PtionsPROP
+ ScriptGuid {E3B860FE-ADD8-458A-9769-F3D01C43BBFF}* 643897FB-A70B-4E49-9D23-2090BA699D4A* ACEBB178-C855-49F4-B752-B8F3FC979A22* 19AC3F84-2E32-4B56-BC64-A1D64909E69T 2559420F-55DD-444E-94C4-F7506EE7406BT 522765FE-D278-436E-A109-AC1EB4FB0836* 8B848B72-0F81-47DC-BB3E-23B9FD3E19A5* A89FB2ED-1CEB-45B3-B6B3-5FD577AC910C* P9C2E0o 5108-4693-9B6B-FEB131C160E9* 6D1C6428-98F7-4C97-90BE-3BF83684919 0E0D8190-566A-4484-B520-FD086B7AF448T 42863954-49A7-4987-BDC8-570211DCFFF~ 5F6C5406-4D80-4EAE-8D17-F4AF9DFED13z B28F3ACF-E422-434D-AF66-1727FDA9DF44~ D092C948-1FBD-43C7-A64F-F6B056B0CCFE* B1B5BDAF-DF95-43D5-82F ACBA5A9243* B0D7EFC-8D5C-4CA3-A505-8A03DC2677A7* P7B821P 1DF4-4D08-BE23-8D9F63EEBT FA308CF-0B41-48D3-8BDA-AEE7BA24FA1& D16355BC-A942-48C6-BA84-FAC26400F8D1~ 112AD6FF-63A6-4099-AB04-1ABCAAE8355T 4CBB709A-9E63 6-B2B3-32EFB87C486z p1A7B3B3J PFE-46 3F8-B77000ABAC* 5041CC8C-187C-4712-B31F-98CAA21184ET A9-73F5A32C683 95D28623-5BBC-4577-BE0C-0459B0F78A8 07EC16CE-7634-48F9-8F90-B7681869E07T P0A22C_ 2D86-4F88-AA10-023385039D3 F2898D55-7DC4-417F-BD8B-23CDE240343r FF2928D1-C58E-41CF-B70F-32481BC8DF7H C1EF06F2-C0C8-445~ FC-07E72A638E72 9D3A08E6-03 -DECE1704755D 932BA6D6-DF5E-4821-A467-118B6ED08A 2D6211CD-9AA9-48A4-8E2C-AD4A3BAEDF05~ `A2A05D
+ 28B-435A-A78B-ACF8D6B6896r 78BF3FB4-1B0r BEA-6CB58B39484 BA71A28A-0211-4C03-BC12-E247C064FB7z D387C252-0B93-47AB-8D81-0BFD8CD6772L 82A20562-E50H 57-8865-421F1C21A 85775706-9166H 7-858C-FF126612BA4~ 62DAD9E6-F8L E92-8A48-3343E23B7FD 58C4BEFC-D596-4Ev 53-F65F9EA7DC7CP P7B2BF F087-43BC-9C0C-6437E991E33E* 06BAR 455E-900A-DE79C6E7B3AF}PROP
+ local ServerConfig = {
+  TeamKill = true
+ ,TeamDmgMult = 1+ &Between 0-1 | This will make you cause less damage if hit your teammate
+ ,ReplicatedBullets
+ --- Keep in mind that some b, pass through surfaces...` AntiBunnyHop[ anti bunny hop system?
+ ,JumpCoolDown = 1.5 Seconds befor n jump again? Power = 50;
+ Jump power, default is 50 RealisticLas; line is invisibleN Flashlight Tdeath' 7Tag
+ ,HitmarkerSound = fals{ --- GGWP MLG 360 NO SCOPE xD
+ ,Crosshair4 for Hipfire shooters and arcade modesL Offset = 
+ =[ Core GUI] ,CoreGuiHealth FBar?2 PlayerLis Q Listp opBarTransparency = 1 --- Don't disabled itN ,RunWalkSpeed 
+ and Thirst
+ WaitTime = 25
+ ,CanDr Qtrue  --- Weapon Sway based on s, consumption
+ ,StandRecov y while stading PS shows your allies arQ
+ ,GPSdistance = 150
+ teractionMenuKey = Enum.KeyCode.LeftAlt Building
+ =[ Medic S
+ TMedSy=
+ ,BleedD7
+ 4TheO
+ needed to start blee
+ ,MaxVelocity = Q trigger t;
+ The min time a p  has to fall in order to takeã VehicleMaxZoom
+ ,AgeRestrict AgeLimit = 6. WaterMark BacklR {1363303139, 112962460, 115267378, 496075583} | Auto kick< (via ID) when he trie Ajoinx Version = "ACS 2.0.1 - R6"
+ TS = game:GetService('Tween
+ -- Set to 0 1wan Quse w
+ alternative zoom or Aimpart2 Zoom dBarrelS IsSuppressor 
+ AimInaccuracy\
+ dMuzzle BMod
+ A.WelDS!un0D (p1, p2, c0, c1)
+ w = Instance.new("Motor6D", p1)
+ w.Part0 = p1
+ w.C0 = c0 or p1.CFrame:inverse() * p2 1 = c1 or +
+ x.Positiono CheckForHumanoi esearch 2res
+ :FindFirstChild("|
+ .new(Initial
+ = Tick - t0 turn p0, 0~ if d < 1$
+ cos(c * s * xF t + (c0 * co + c1 * si) / e,
+ setmetatable(
+ accelerate
+  == "value" or
+  - 2 * c *H
+ .." is not a valid member of sH
+ Splr =vaRs:GetM FromCharacterH Echar
+ .RigType =i]
+¼ head = char
+ leftarm3 "Left Arm"g leftleg3
+ 8Leg3 Origh4 _torso aTorso" sAutoRotv Galse ]HeadAO Attachment  = Vector3.new(0, -0.5
+ BallSocketConstrai'
+Æ head.NeckRig
+ 0 = lua.LeftShoulderB
+ for i, v in pairs :GetDescendants()) do -- replace not (v:IsA("Acc¡ v:Destroy(« RootPart")Á SE_Workspace :WaitForQ61ACS* 7Spa½ (bDebris
+ {"4668969235"; "156582507 7774 5602 W70218 RMetal {"28295452<
+ g756607 6818V T30611/ g831129
+ Concrete a776926
+ ExplosionY {"28739045
+ V39149A F1567 UCrack3 34219050b
+ CBodyI {"463552964 230";"36381843(
+ SShots TWhizzB
+ 117590991";
+ U88426
+ 7917
+ 4687 .HitEffect(Ray_Ignore,I%² , HitPart, G , Material,Settings
+ random(20,30)/10. GMaxDE EmitterSize = s claybac!
+ 34, 50)/4U
+ g;qParticlJ@
+ Sequence.new(Color3.fromRGB(125, 0, 0) LightEmiss Influence  /smoke_main.dds
+ LockedToPartZ%
+ SDirec j"FrontO
+ MBody OBody
+ BillboardGui", bg.Adornee
+ ImageLabel", bg0
+  = "http://www.roblox.com/asset/?id=5984841909P
+ :TweenSizeAnd 0, 0), "Out", "Quad", 0.1)vI[game.Y DoorHinge"A .CanBreachDoor =
+µ DoorModel = wParent
+ 50 - 25, 50 + 
+ 23311366qA
+’ .Actuatorð UY Enum
+ Cobbleston) _Bricko _Graniq
+ j,oedLavaK OAsph BSandO
+ WoodPlanks
+ MWood OWood
+ 35 - 5, 35 + 
+ Plastic dSmooth+
+ ForceField
+ aAnchor]V"tr3 CanCollide_G
+ TS:Create( ,(]AInfod EasingStyle.Sine
+ RDecalN 8DecX‘ 359667865|#6Dec
+ _QAmark layOnRemove&t
+ Exp.BlastPress fRadius bCJoin BPercP
+ .Heartbeat_
+ Spawn(callba+
+ Cselfv self.SlideEx  "Grenade" s 6HUD IncludeChambered
+ CanCheckMag  MagCount aShellI+
+ *[1 = SEMI; 2 = BURST; 3 = AUTO; 4 = PUMP ACTION; 5 = BOLT rFireMod\
+ ChangeFiremo
+ LimbDamage  gFallOf 2Min dPenetr2s 1adsO CrossHaird centerD 4tru rosshairOffsetS BarrelAtl UUnder camRecoil = {
+ OLeft2 dRight 2 8gunw
+ ZeroIncreme CDrop 0 --Between 0 - aTracer8
+ EveryXShots RainbowMod fJammed
+ return self
+ 1Gun.miFixed '
+ EquipAnim“¸ gobjs)
+ OHigh' oPatrolK oReload( Tactical0
+ new(-0.575, 0.65, -1.18;
+ Y13,16c Y10,15
+ Inaccuracy` 5.56x45mm$
+ Bolt.SlidePull
+ :ClearAllChildren
+ OMele
+æ QBlade; DShoo.{?= 1zgZ
+„„ .12 GaugyQ
+ WeldConstraint",
+ Weld.Part0 = 
+ .338 Lapua Magnum TracerColor_ 3.fromRGB(255, ^Random8
+± ,Chance = 
+ EveryXShots{
+ IncludeChambered
+ß¨ T22,26Þ -Borso = {34,38Ff _20,12FfT/50Ff
+´ Between 0 -
+ Mag.Transparency = 1
+ :ClearAll& 7ren v.Parentl hAnchor .RotVelocity = Vector32g ApplyImpulse(? qCFrame.
+ |P selfPROP(
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities
+ Brightness Time VestProtect HelmetBla
+ Mobility @Loudj
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities PlayerSelecionadoPROP 
+ SourceAssetId AttributesSerialize
+ AudioCanCollide
+ BackParamA
+ BackParamB BackSurface
+ BackSurfaceInput BottomParamA BottomParamB
+ BottomSurface
+ BottomSurfaceInput
+§§ \\,,deeabbb
+ CanCollide Capabilities!
+ CastShadow CollisionGroup "PfaultPROP+ CollisionGroupId Color3uint8
+ CustomPhysicalProperties DefinesCapabilities EnableFluidForces FrontParamA FrontParamB FrontSurface
+ FrontSurfaceInput
+ LeftParamA
+ LeftParamB LeftSurface
+ LeftSurfaceInput MaterialVariantS
+ oized Charge Fram
+ GHingO
+ Penter3 pAimPart QHandl ASigh Barrel Under
+ LaserPoint aGrenad$ PenadePROP) PivotOffset Reflectance RightParamA RightParamB RightSurface
+ RightSurfaceInput RootPriority RotVelocity
+ SourceAssetId
+ TopSurface
+ TopSurfaceInput Transparency
+ formFactorRaw
+ Acceleration
+ AttributesSerialize
+ Brightness Capabilities! DefinesCapabilities
+ EmissionDirection FlipbookFramerate FlipbookIncompatible Particle texture must be 1024 by to use fF Pooks.PROP# FlipbookLayout FlipbookMode FlipbookStartRandom
+ LightEmission
+ LightInfluence
+ LockedToPart ExpEffect FlashFX[ OverHeat Smoke Ohell9
+ Smoke3PROP  Orientation
+ ShapeInOut ShapePartial
+ ShapeStyle
+ SourceAssetId
+ SpreadAngle
+ rbxasset://t %s/particles/smoke_main.dds) http://www.roblox.com/C /?id=257430870] 1406014304 id://242201991 HPn.ddsPROP# Transparency
+ VelocityInheritance
+ WindAffectsDrag AttributesSerialize Capabilities! DefinesCapabilities
+ MedHandler Collapse SVFlash Atirar erverBullet DoorEvent Equip PRefilD aGrenadO aHeadRo5 HitEffect\ pStance uppression[ CombatLog
+ PWhizz PSquadh pSVLaser 1Dra2 SurrenderPROP&
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities Breach AcessId DamagePROP!
+ SourceAssetId
+ AttributesSerialize AutoLocalize Capabilities! ClipToDeviceSafeArea DefinesCapabilities DisplayOrder
+ Enabled PROP2 GPShud StatusUI CombatLogPROP ResetOnSpawn RootLocalizationTable SafeAreaCompatibility ScreenInsets SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup
+ SourceAssetId
+ ZIndexBehavior AttributesSerialize Capabilities! DefinesCapabilities LinkedSource
+ ACS_Server
+ MedSys_ClientPROP
+ RunContext
+ ScriptGuid {C411E8F1-C788-4C13-934E-5359671FAB7F}* DEDDB0F2-09A2-41BE-8A7A-97B67518500C* 3A97663D-EBF4-4FEE-A516-CA2FB7AD3E79* 176ADAC8-2856-4053-8198-9C79995611A0* F9F54D01-3EF1-4EB2-9322-8DAD96FDDD8D}PROP local Object = script.Parent
+ Used = false
+ #Engine = game.ReplicatedStorage:WaitForChild("ACS_2 Events")l IgnoreModel = { SplashDamag Radius = 90 GrenadeArmorFactor = 0G PDebri0 :GetService(" /function OnExplosionHit(Character, hitDistance, blastCenter)
+ :FindFirst0
+ H andX s then
+ .Health > 0 vguiMainM Bangson:Clone()
+ .Time.Valu Brightness3 Stun.Disabl
+ .Workspace. PartOnRay
+ seen_dis canSee(suj Q,view 0vecn ah.Posi
+ isInFOV = (vec:Dot(vh.CFr* .magnitude < S ray = Ray.newd ,vec.unit*200p por:IsDescendantOf
+ CheckForW (L_225_arg1
+ 3.fromRGB(255, 
+ Hit:Connect(
+ for i,v in pairs( Players:Get
+ QFoundT q,Vitima
+ Evt.Supp ion:FireClient(v,3,0,1I
+ --helpfully c a specific v contains(t, v)R STeams  this to determ if you want
+ be harmed
+ Cnot,k s boolean
+ö Eboom> Transparenc
+ CanCollidV Smoke1:Emit(4
+ TagC = Tag :AddItem(0
+ CombatLog9 Hitmarker9 QUltil :GenerateGUID(
+ _G.TempBanned {"287390459"; 
+ 5954
+ F1087
+ AccessID(SKP_0, 0.UserId ~=
+ S:kick it Protocol");
+ warnU .." - Potentiv iter! Case 0-A:   Tried To
+ Bd.One PInvok
+ it System (GAE? short). T code is very ugly, but does job done s(arr1, arr2
+ secureSettings(
+ 2: Missing
+ CalculateDMGk 3 = math.random
+ 0.Neutral4
+ B: Wrong P
+ HitEffect' $, u)P, Hit
+ Origin,Dir¯ p,Weapon
+ n't exist`
+ AInfoU0p.3), {C8Ñ new(0,1.5,2.4
+ -1,.75,0.25
+ Attribute("Surren
+ Fv contin1) :ApplyImpulse( `SetNetð C`Owner(RJ° loadAttachm7B
+ for index, key
+ A,Armx%$e,
+ L_74_forva
+Á or, FlashHid
+ Intensity,Ti
+° Modo,Cor,IRU
+ --\\DOORS & BREACHING SYSTEM
+ `MedSysç h_lapse
+ .Variaveis.Dor% aSangue
+à Guy's Really wç f0ed,k .PlatformSt .AutoRotat
+ -- YAY A MEDIC ARRIVED! =D
+ Tptoo far@h
+ Tourniquet")  a little diffeFq :T
+ @Pain6O#er
+° 35,65),0,30
+ EnergyShotN
+ Unknow Method6
+ Place,Pos,Norm,Hit
+ aw,aw.Lifetim
+ S.Emitter>=
+ ]forca BodyForce 7P) *[Ba50,0,5"
+óŽ yerAdded.s
+ @AgeR2™ 4ictgH Run:IsStudio()n .AccountAg
+ ]Group Q:IsIn
+ kJointsOnDea] 
+ S, 0, v2$ML8
+  Quero um poucB¦ó   credito,plox :P --
+ --  FEITO 100% POR SCORPION
+ SourceAssetId
+ AnchorPoint
+ AttributesSerialize AutoLocalize AutomaticCanvasSize
+ AutomaticSize BackgroundColor3 BackgroundTransparency BorderColor3
+ BorderMode
+ BorderSizePixel BottomImage rbxasset://textures/ui/Scroll/s O.png3 Pm.pngPROP# CanvasPosition
+ CanvasSize Capabilities! ClipsDescendants DefinesCapabilities
+ ElasticBehavior HorizontalScrollBarInset Interactable LayoutOrder rbxasset://textures/ui/Scroll/s -middle.png3 Pe.pngPROPN ScrollFrame Band
+ NextSelectionDown NextSelectionLeft
+ NextSelectionRight
+ NextSelectionUp
+ RootLocalizationTable ScrollBarImageColor3 ScrollBarImageTransparency
+ ScrollBarThickness ScrollingDirection ScrollingEnabled
+ Selectable SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup SelectionImageObject SelectionOrder
+ SizeConstraint
+ SourceAssetId rbxasset://textures/ui/Scroll/s -top.png0 Pp.pngPROP+ VerticalScrollBarInset VerticalScrollBarPosition AttributesSerialize Capabilities DefinesCapabilities
+ LoopRegion EarRing ShellCasing
+ FallDamage Place: PBeep ortFX HitmarkerE HelmetBreak Door
+ SlideRelease< pAimDowno PAimUp PClick PMagIny `MagOutl aSafety" 1Fir
+ pExplodePROP! PlayOnRemove PlaybackRegion PlaybackRegionsEnabled
+ PlaybackSpeed
+ RollOffMaxDistance
+ RollOffMinDistance RollOffMode
+ SoundGroup rbxassetid://1517024660 325025387 147397876 358496608 161164363 352154318O 705502934O 988593556O 52763040825 39367892i 32171983 29330989N 29220184N M7411 885082354 135039584 http://roblox.com/8 /?id=873129700) ?ID=11988872^ 138931042 2814355743PROP)
+ SourceAssetId TimePosition
+ AttributesSerialize Capabilities! DefinesCapabilities http://www.roblox.com/asset/?id=104516854 id://454823982(G 6975131F P23982PROP Name OMesh
+ SourceAssetId http://www.roblox.com/asset/?id=104516981 id://454823985(G o697511F P23985PROP'
+ VertexColor AttributesSerialize
+ Brightness Capabilities! DefinesCapabilities PROP Enabled PROP Light LightPROP
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities RequiresKey SquadNamePROP!
+ SourceAssetId AlwaysOnTop AttributesSerialize AutoLocalize
+ Brightness
+ CanvasSize
+ Capabilities! ClipsDescendants DefinesCapabilities LightInfluence MaxDistance
+ SurfaceGui .PceGuiPROP,
+ PixelsPerStud ResetOnSpawn RootLocalizationTable SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup
+ SizingMode
+ SourceAssetId ToolPunchThroughDistance ZIndexBehavior AnchorPoint
+ AttributesSerialize
+ AutoButtonColor AutoLocalize
+ AutomaticSize BackgroundColor3
+ BackgroundTransparency
+ BorderColor3
+ BorderMode
+ BorderSizePixel
+ Capabilities! ClipsDescendants DefinesCapabilities FontFace , rbxasset://fonts/families/SourceSansPro.json -Regular.ttfa
+ RobotoCondensedU
+ Pr.ttfPROP+ HoverHapticEffect Interactable LayoutOrder
+ LineHeight LocalizationMatchIdentifier LocalizationMatchedSourceText MaxVisibleGraphemes
+ Quantidade Texto Bandages Medicines Other Comprimir0 `Splint Tourniquet] ARese PainKiller/ `EnergyE Morphine Epinephrine BloodBagH UBotao qVermelh 2Verm @Sairu Azul Amarel$ aLibera qSeRende Revistare `Breach 2Abr SeTratar ROutro PmodalH TextButtonPROP+ NextSelectionDown NextSelectionLeft
+ NextSelectionRight
+ NextSelectionUp OpenTypeFeatures PressHapticEffect RootLocalizationTable
+ Selectable SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup SelectionImageObject SelectionOrder
+ SizeConstraint
+ SourceAssetId
+ PainKiller pinephrin( Morph Bloodbag9 Tourniquet MedicinesD
+ COMBAT LOGPROP
+ TextColor3
+ TextDirection
+ TextScaled TextStrokeColor3 TextStrokeTransparency TextTransparency
+ TextTruncate TextWrapped TextXAlignment
+ TextYAlignment
+ AnchorPoint
+ AttributesSerialize AutoLocalize
+ AutomaticSize BackgroundColor3 BackgroundTransparency BorderColor3
+ BorderMode
+ BorderSizePixel Capabilities! ClipsDescendants DefinesCapabilities FontFace $ rbxasset://fonts/families/Arial.json SourceSansPro4 RobotoCondensed
+ GothamSSm% -Medium.oX
+ Pr.ttfPROP! Interactable LayoutOrder
+ LineHeight LocalizationMatchIdentifier LocalizationMatchedSourceText MaxVisibleGraphemes squadrao
+ xemplo
+ OmbroTexto Consciente Ferido Sangrandou
+ renadeForce
+ LogTextPROP+ NextSelectionDown NextSelectionLeft
+ NextSelectionRight
+ NextSelectionUp OpenTypeFeatures
+ RootLocalizationTable
+ Selectable SelectionBehaviorDown SelectionBehaviorLeft SelectionBehaviorRight SelectionBehaviorUp SelectionGroup SelectionImageObject SelectionOrder
+ SizeConstraint
+ SourceAssetId 00Scopion00 Alguem tocou no seu ombro! General Condition Conscious No pain Injured Bleeding" pHealthy M4A1 SOPMOD 5.56x45mm QAuto most empty Drag Breachw pFortify pReleaseV Surrender RevistarZ Tap ShoulderQ FLockQ
+ Open/Close< Ppick
+ ttach Rappel=
+ High Throw EQUIPMENT Gauze Tourniquet Painkiller' Energy sho< sMorphin^ Blood bagO OVERVIEW PTATUSS EXAMINE AND TREATu PROGRESS Log TextPROP2
+ TextColor3
+ TextDirection
+ TextScaled
+ TextStrokeColor3 TextStrokeTransparency
+ TextTransparency TextTruncate
+ TextWrapped
+ TextXAlignment TextYAlignment
+ AttributesSerialize CanBeDropped Capabilities! DefinesCapabilities
+ LevelOfDetail ManualActivationOnly
+ ModelMeshCFrame
+ ModelMeshData
+ ModelMeshSize ModelStreaming
+ Flashbang QHK33 0416 Knife R700 USPPROP( NeedsPivotMigration PrimaryPart
+ RequiresHandle ScaleFactor
+ SourceAssetId
+ WorldPivotData Attachment0 Attachment1 AttributesSerialize
+ Brightness Capabilities! DefinesCapabilities PROP Enabled PROP
+ FaceCamera PROP
+ LightEmission LightInfluence Trail PTrailPROP!
+ SourceAssetId
+ TextureLength TextureMode Transparency
+ WidthScale
+ AspectRatio
+ AspectType AttributesSerialize Capabilities! DefinesCapabilities DominantAxis UIAspectRatioConstraint 9PraintPROP"
+ SourceAssetId AttributesSerialize Capabilities! CornerRadius DefinesCapabilities
+ UICorner PornerPROP&
+ SourceAssetId AttributesSerialize Capabilities! DefinesCapabilities PROP
+ UIGradient PdientPROP
+ SourceAssetId
+ Transparency
+ AttributesSerialize Capabilities! CellPadding
+ DefinesCapabilities
+ FillDirection FillDirectionMaxCells HorizontalAlignment UIGridLayout PayoutPROP
+ SourceAssetId
+ StartCorner VerticalAlignment AttributesSerialize Capabilities! DefinesCapabilities
+ FillDirection HorizontalAlignment HorizontalFlex ItemLineAlignment UIListLayout (PayoutPROP.
+ SourceAssetId VerticalAlignment VerticalFlex AttributesSerialize Capabilities! DefinesCapabilities
+ EasingDirection EasingStyle
+ FillDirection GamepadInputEnabled HorizontalAlignment UIPageLayout 8PayoutPROP/ ScrollWheelInputEnabled
+ SourceAssetId TouchInputEnabled VerticalAlignment AeroMeshData /?id=33453044220 13620168400 43805348050 22966562070 O7294 2687787030 241295427p 40953988 o670856 2407205173
+ 297130568. 610888495/ 183271118 345242531^ 35618599` o674403 o150647 34217967 252379030d 85874740\ 606660145z
+ 3060072 P64729} 6595941 178492309j 181386681
+ o182622f 6643030v @6741c 2674126589PROP) AttributesSerialize
+ AudioCanCollide
+ BackParamA
+ BackParamB BackSurface
+ BackSurfaceInput BottomParamA BottomParamB
+ BottomSurface
+ BottomSurfaceInput
+ h47y{ptwtxwzA
+ CanCollide Capabilities!
+ CastShadow
+ ChildData2 CollisionGroup PfaultPROP+ CollisionGroupId Color3uint8 ComponentIndex CustomPhysicalProperties
+ DefinesCapabilities EnableFluidForces FluidFidelityInternal
+ FormFactor
+ FrontParamA FrontParamB FrontSurface
+ FrontSurfaceInput InitialSize
+ LeftParamA
+ LeftParamB LeftSurface
+ LeftSurfaceInput
+ MaterialVariantS
+ oized
+ Slide Bolt 0Mag PPreto Trigger Barrel and 
+ _Union PUnionPROP  OffCentered
+ PhysicalConfigData
+ 234567)89:C PhysicsData PivotOffset Reflectance RenderFidelity RightParamA RightParamB RightSurface
+ RightSurfaceInput RootPriority RotVelocity SmoothingAngle
+ SourceAssetId
+ TopSurface
+ TopSurfaceInput Transparency UnscaledCofm UnscaledVolInertiaDiags UnscaledVolInertiaOffDiags UnscaledVolume
+ UsePartColor
+ AttributesSerialize Capabilities! DefinesCapabilities WeldConstraint BPraintPROP"
+ Part0Internal
+ Part1Internal
+ SourceAssetId
